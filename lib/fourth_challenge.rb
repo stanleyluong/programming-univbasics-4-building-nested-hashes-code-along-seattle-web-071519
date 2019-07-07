@@ -22,3 +22,5 @@ def fourth_challenge
    }
 }
 end
+
+epic_tragedy[:montague][:hero][:status] = "dead"
